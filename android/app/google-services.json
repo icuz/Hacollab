@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108466317858",
+    "project_id": "mysipproject-b2e74",
+    "storage_bucket": "mysipproject-b2e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108466317858:android:c1f44f9d529b131071787b",
+        "android_client_info": {
+          "package_name": "com.vighnesh.hacollab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108466317858-g324nekfmrbed261ibegq9ikas53n8hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbeIr5dwdsEoEfI11fKDeEQq90B46duzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108466317858-g324nekfmrbed261ibegq9ikas53n8hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
